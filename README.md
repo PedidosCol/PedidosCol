@@ -1,25 +1,25 @@
 # README
 
-#Nombre del Proyecto
+# Nombre del Proyecto
 Pedidos Col.
 
-#Problematica que atiende
+# Problematica que atiende
 La falta de una plataforma que ayude a los dueños de negocios a tomar sus pedidos para ahorrarse el tiempo que gastan atendiendo llamadas.
 
-#Propuesta de solución
+# Propuesta de solución
 Realizar una plataforma en la que una persona pueda entrar a elegir una tienda y hacerle un pedido a esa tienda para recogerlo en sus sucursal mas cercana
 
-#Definición de requerimientos del MVP
+# Definición de requerimientos del MVP
 Poder crear un usuario cliente
 Poder crear un usuario negocio
 Permitir a un usuario(cliente) seleccionar una gama de productos para posteriormente realizar un pedido y recogerlo en sucursal. Este usuario solo puede ver la informacion de los productos pero no la puede modificar, de igual manera si le agrada un producto puede agregarlo al carrito de compras.
 
 Permitia a un usuario(negocio) subir foto y descripcion de sus productos para poderlos ofrecer en la plataforma y aumentar sus ventas.
 
-##Requerimientos funcionales
+## Requerimientos funcionales
 
 
-##Requerimientos no funcionales
+## Requerimientos no funcionales
 Buena calidad en el diseño
 Diseño web responsivo
 Apoyado con Rubocop para obtener la mejor calidad del codigo
