@@ -1,4 +1,5 @@
-# README
+# PedidosCol
+PedidosCol es una plataforma web en donde los clientes pueden entrar a ordenar productos que los negocios registrados postean.
 
 # Nombre del Proyecto
 Pedidos Col.
