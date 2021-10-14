@@ -18,7 +18,7 @@ Permitir a un usuario(cliente) seleccionar una gama de productos para posteriorm
 Permitia a un usuario(negocio) subir foto y descripcion de sus productos para poderlos ofrecer en la plataforma y aumentar sus ventas.
 
 ## Requerimientos funcionales
-
+  In progress
 
 ## Requerimientos no funcionales
 Buena calidad en el diseño
